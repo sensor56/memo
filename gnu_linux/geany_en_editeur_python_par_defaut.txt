@@ -1,0 +1,9 @@
+Valable sous xcfe et lxde :
+
+ouvrir navigateur fichier
+clic-droit sur un fichier *.py
+selectionner <ouvrir avec>
+choisir <selectionner avec une autre application>
+verifier que l'option "choisir cette applicatino par defaut pour ce type de fichier" est cochée
+choisir Geany et valider
+
