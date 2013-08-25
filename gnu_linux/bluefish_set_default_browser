@@ -1,0 +1,6 @@
+Définir le navigateur par défaut dans Bluefish : 
+> aller dans Edit > Preferences
+> Aller dans External commande
+> ajouter au besoin la commande voulue : par exemple midori '%p'&
+> ensuite décaler vers la droite avec la barre défilement du bas : on voit des cases à cocher
+> cocher la commande voulue
