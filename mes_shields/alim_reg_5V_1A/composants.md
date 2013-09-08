@@ -1,4 +1,3 @@
-
 ### Composants pour alim 5V / 1A 
 1 x 7805 / 1A  
 1 x condo céramique 100nF
@@ -9,3 +8,6 @@
 
 1 x connecteurs 2 pts à vis - 5mm
 1 x connecteur à brancher 2 pts à vis - 5mm
+
+4 x entretoises haut. 5mm 
+4 x vis M3 + écrou 
